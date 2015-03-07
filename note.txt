@@ -2,3 +2,5 @@ note:the sys before normal name of the header
 note:*.a should be behind the *c
 note:To use *a ,run gcc with the option -O 
 note:You can use the functions defined in *a without any *h or declares in the head of the c source file
+run jobs with -l will show the PID of the bg_program
+and this will make the kill more easily
