@@ -1,6 +1,6 @@
 #include <dlfcn.h>
-#include <stdio.h>
 #include <stdlib.h>
+#include <stdio.h>
 int main()
 {
 	void *pHandle;
